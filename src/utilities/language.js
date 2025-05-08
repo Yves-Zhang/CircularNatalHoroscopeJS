@@ -153,4 +153,83 @@ export const LANGUAGE = {
     major: 'Mayor',
     minor: 'Menor',
   },
+
+
+  // 中文  
+  zh: {
+    // 标签  
+    label: '中文',
+    // 角度  
+    ascendant: '上升点',
+    midheaven: '天顶',
+    // 天体  
+    sun: '太阳',
+    moon: '月亮',
+    mercury: '水星',
+    venus: '金星',
+    mars: '火星',
+    jupiter: '木星',
+    saturn: '土星',
+    uranus: '天王星',
+    neptune: '海王星',
+    pluto: '冥王星',
+    chiron: '凯龙星',
+    sirius: '天狼星',
+    // 点位  
+    northnode: '北交点',
+    southnode: '南交点',
+    lilith: '莉莉丝',
+    // 星座  
+    aries: '白羊座',
+    taurus: '金牛座',
+    gemini: '双子座',
+    cancer: '巨蟹座',
+    leo: '狮子座',
+    virgo: '处女座',
+    libra: '天秤座',
+    scorpio: '天蝎座',
+    sagittarius: '射手座',
+    capricorn: '摩羯座',
+    aquarius: '水瓶座',
+    pisces: '双鱼座',
+    ophiuchus: '蛇夫座',
+    // 宫位  
+    house1: '第一宫',
+    house2: '第二宫',
+    house3: '第三宫',
+    house4: '第四宫',
+    house5: '第五宫',
+    house6: '第六宫',
+    house7: '第七宫',
+    house8: '第八宫',
+    house9: '第九宫',
+    house10: '第十宫',
+    house11: '第十一宫',
+    house12: '第十二宫',
+    // 相位  
+    conjunction: '合相',
+    opposition: '对冲',
+    trine: '三分相',
+    square: '四分相',
+    sextile: '六分相',
+    quincunx: '五分十二相',
+    quintile: '五分相',
+    septile: '七分相',
+    'semi-square': '半四分相',
+    'semi-sextile': '半六分相',
+    // 黄道系统标签  
+    'tropical-zodiac': '回归黄道',
+    'sidereal-zodiac': '恒星黄道',
+    // 宫制系统标签  
+    'equal-house': '等宫制',
+    campanus: '坎帕努斯制',
+    koch: '科赫制',
+    placidus: '普拉西德斯制',
+    regiomontanus: '雷焦蒙塔努斯制',
+    topocentric: '地心制',
+    'whole-sign': '整宫制',
+    // 相位级别标签  
+    major: '主要',
+    minor: '次要',
+  },
 };
